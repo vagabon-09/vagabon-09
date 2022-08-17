@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rurajeshrb
+- 👋 Hi, I’m Rajesh Bhadra
 - 👀 I’m interested in Android Development using Java
 - 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with StartUp
 
 <!---
 rurajeshrb/rurajeshrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
