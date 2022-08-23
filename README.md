@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **rajeshbhadra@gmail.com**
+- 📫 How to reach me **rajeshbhadra62@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
 
