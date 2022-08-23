@@ -1,4 +1,4 @@
-[![MasterHead](https://pixabay.com/illustrations/android-apps-development-riyadh-2724826/)]
+[![MasterHead](https://user-images.githubusercontent.com/89797141/186187216-c3888c81-1d96-485d-8b48-7afed5491c80.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajesh Bhadra</h1>
 <h3 align="center">A passionate Full stack Android developer from India</h3>
 
