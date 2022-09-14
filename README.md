@@ -44,5 +44,5 @@
 
 <p align="center"> 
  Total Visitors <br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/vagabon-09/count.svg" />
 </p>
