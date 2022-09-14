@@ -9,8 +9,9 @@
 <h3 align="center"> A passionate Full stack Android developer from India</h3>
 
 #
-- 🔭 I’m curren
-tly A student at **JIS COLLEGE OF ENGINEERING**
+<h1> About Me </h1>
+
+- 🔭 I’m currently A student at [**JIS COLLEGE OF ENGINEERING**](https://www.jiscollege.ac.in/)
 
 - 🌱 I’m currently learning **Android using Java**
 
@@ -25,13 +26,15 @@ tly A student at **JIS COLLEGE OF ENGINEERING**
 - 📫 How to reach me **rajeshbhadra62@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
-#  My GitHub Status 
+
+
+ #  My GitHub Status 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagabon-09&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vagabon-09&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+         
 # My Contribution
 ![snake gif](https://github.com/vagabon-09/vagabon-09/blob/output/github-contribution-grid-snake.svg)
 
