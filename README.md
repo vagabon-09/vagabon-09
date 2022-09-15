@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/89797141/186187216-c3888c81-1d96-485d-8b48-7afed5491c80.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajesh Bhadra</h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89797141/190187596-e815232a-a86f-4332-83ce-0e3280409bfb.png" alt="Sublime's custom image"/>
 </p>
@@ -15,7 +14,8 @@
 - 🔭 I’m currently A student at [**JIS COLLEGE OF ENGINEERING**](https://www.jiscollege.ac.in/)
 
 - 🌱 I’m currently learning **Android using Java**
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
+<img align="right" height="150rem" alt="GIF" src="https://user-images.githubusercontent.com/89797141/190404889-560a4b36-670d-4569-8b90-a1484785ff97.gif" />
 
 - 👯 I’m looking to contribute on **Android Projects**
 
