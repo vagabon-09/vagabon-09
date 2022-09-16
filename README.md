@@ -90,14 +90,6 @@
                                                                                     
 
 
-
-
-
-
-
-
-
-
 <br>
 <p align="center">
 <div align=center>
@@ -107,17 +99,8 @@
 
 <br>
 
- <hr>
-
-
-
-         
-
-
-
-
 <div align="centre">
- 
+                   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vagabon-09&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </div>
 
 <p align="center"> 
