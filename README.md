@@ -5,11 +5,12 @@
 </p>
 
 
-<h3 align="center"> A passionate Full stack Android developer from India</h3>
+<p align="center">
+  <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer+from+India;I'm+enjoying+my+journy;Learning+new+things" /></h3>
+</p>
 
-#
 
-<h1> About Me </h1>
+##  About me
 
 - 🔭 I’m currently A student at [**JIS COLLEGE OF ENGINEERING**](https://www.jiscollege.ac.in/)
 
