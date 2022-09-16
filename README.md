@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/89797141/186187216-c3888c81-1d96-485d-8b48-7afed5491c80.gif)](https://rishavchanda.io)
+ ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <h1 align="center">Hi 👋, I'm Rajesh Bhadra</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89797141/190187596-e815232a-a86f-4332-83ce-0e3280409bfb.png" alt="Sublime's custom image"/>
@@ -37,6 +37,7 @@
 <a target="_blank" href="https://twitter.com/vagabon_09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 <a target="_blank" href="https://www.facebook.com/rajesh.bhabra.9/"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white">
   <a target="_blank" href="https://www.instagram.com/vagabon_09/"><img src="https://img.shields.io/badge/-Instagram-fb3958?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a target="_blank" href="https://www.facebook.com/rajesh.bhabra.9/"><img src="https://img.shields.io/badge/-HackerRank-093611?style=for-the-badge&logo=HackerRank&logoColor=white">
 
 </div>
 <h2 align="center"><u>My Github Stats</u></h2>
