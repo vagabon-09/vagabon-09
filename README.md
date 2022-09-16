@@ -34,7 +34,7 @@
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 <div align = "center">
 <a target="_blank" href="https://www.linkedin.com/in/rajesh-bhadra-40a282202/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
+<a target="_blank" href="https://twitter.com/vagabon_09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 
 
 </div>
