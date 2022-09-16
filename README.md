@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer+from+India;I'm+enjoying+my+journy;Learning+new+things" /></h3>
+  <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer+from+India;I'm+enjoying+my+journy;Learning+new+things" /></h3>
 </p>
 
 
