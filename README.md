@@ -38,6 +38,31 @@
     <a target="_blank" href="https://www.hackerrank.com/rajeshbhadra62"><img src="https://img.shields.io/badge/-HackerRank-093611?style=for-the-badge&logo=HackerRank&logoColor=white">
 
 </div>
+
+<h2 align = "center" > <a> Tech Stack </a> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> 
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Java-FFFF00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-C-0000FF?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"alt="css3"/>
+<img src="https://img.shields.io/badge/php-7377ad.svg?style=for-the-badge&logo=php&logoColor=white"alt="css3"/>
+<img src="https://img.shields.io/badge/xml-ee7801.svg?style=for-the-badge&logo=ExtensibleMarkupLanguage&logoColor=white"alt="css3"/>
+<img src="https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white"alt="css3"/>
+<img src="https://img.shields.io/badge/androidstudio-00de7a.svg?style=for-the-badge&logo=androidstudio&logoColor=white"alt="css3"/>
+<img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"alt="css3"/>
+
+<img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+<img src="https://img.shields.io/badge/firebase-e97b0c.svg?style=for-the-badge&logo=firebase&logoColor=white"alt="css3"/>  
+<img src="https://img.shields.io/badge/roomdatabase-0c0f36.svg?style=for-the-badge&logo=roomdatabase&logoColor=white"alt="css3"/>
+ <img src="https://img.shields.io/badge/mysqli-00718b.svg?style=for-the-badge&logo=mysqlimprove&logoColor=white"alt="css3"/>
+ <img src="https://img.shields.io/badge/sqlite-003a55.svg?style=for-the-badge&logo=sqlite&logoColor=white"alt="css3"/>
+  
+  
+</div>
+
+
 <h2 align="center"><u>My Github Stats</u></h2>
 
 
