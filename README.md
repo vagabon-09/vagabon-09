@@ -113,14 +113,7 @@
                                                                                     
 
 
-<br>
-<p align="center">
-<div align=center>
- <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=vagabon-09&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true />
-</div>
-</p>
-
-<br>
+<h3 align = "center" > My Contribution Graph </h3>
 
 <div align="centre">
                    
