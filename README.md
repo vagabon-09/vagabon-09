@@ -4,10 +4,8 @@
   <img src="https://user-images.githubusercontent.com/89797141/190187596-e815232a-a86f-4332-83ce-0e3280409bfb.png" alt="Sublime's custom image"/>
 </p>
 
-<p align="center" >
-  <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer;I,m+from+India;I'm+enjoying+my+journey;Learning+new+things" /></h3>
+  <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align ="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer;I,m+from+India;I'm+enjoying+my+journey;Learning+new+things" /></h3>
 
-</p>
 
 ##  About me
 
