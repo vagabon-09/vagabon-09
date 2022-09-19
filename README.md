@@ -7,7 +7,7 @@
   <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align ="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer;I,m+from+India;I'm+enjoying+my+journey;Learning+new+things" /></h3>
 
 
-##  About me
+## 😎 About me
 
 - 🔭 I’m currently A student at [**JIS COLLEGE OF ENGINEERING**](https://www.jiscollege.ac.in/)
 
