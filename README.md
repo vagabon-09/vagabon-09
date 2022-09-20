@@ -52,12 +52,14 @@
 <img src="https://img.shields.io/badge/androidstudio-00de7a.svg?style=for-the-badge&logo=androidstudio&logoColor=white"alt="css3"/>
 <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"alt="css3"/>
 
+
+
 <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
 <img src="https://img.shields.io/badge/firebase-e97b0c.svg?style=for-the-badge&logo=firebase&logoColor=white"alt="css3"/>  
 <img src="https://img.shields.io/badge/roomdatabase-0c0f36.svg?style=for-the-badge&logo=roomdatabase&logoColor=white"alt="css3"/>
  <img src="https://img.shields.io/badge/mysqli-00718b.svg?style=for-the-badge&logo=mysqlimprove&logoColor=white"alt="css3"/>
  <img src="https://img.shields.io/badge/sqlite-003a55.svg?style=for-the-badge&logo=sqlite&logoColor=white"alt="css3"/>
-  
+  <img src="https://img.shields.io/badge/figma-f73737.svg?style=for-the-badge&logo=figma&logoColor=white"alt="css3"/>
   
 </div>
 
