@@ -114,7 +114,7 @@
                                                                                     
 
 
-<h3 align = "center" > My Contribution Graph </h3>
+<h2 align = "center" > My Contribution Graph </h2>
 
 <div align="centre">
                    
