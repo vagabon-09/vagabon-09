@@ -19,11 +19,13 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vagabon-09](https://github.com/vagabon-09)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vagabon-09)
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **rajeshbhadra62@gmail.com**
+- 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/)
+
+- 📫 How to reach me  [Email](rajeshbhadra62@gmail.com)
 
 
 
