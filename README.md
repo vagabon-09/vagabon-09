@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Android**
 
-- 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/)
+<!-- - 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/) -->
 
 - 📫 How to reach me  [Email](rajeshbhadra62@gmail.com)
 
