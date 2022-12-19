@@ -47,6 +47,7 @@
 
 <img src="https://img.shields.io/badge/-Java-FFFF00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-C-0000FF?style=for-the-badge&logo=C&logoColor=white">
+ <img src="https://img.shields.io/badge/-C++-0000FF?style=for-the-badge&logo=C++&logoColor=pink">
 <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
 <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"alt="css3"/>
 <img src="https://img.shields.io/badge/php-7377ad.svg?style=for-the-badge&logo=php&logoColor=white"alt="css3"/>
