@@ -26,7 +26,7 @@
 
 <!-- - 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/) -->
 
-- 📫 How to reach me  [Email](rajeshbhadra62@gmail.com)
+- 📫 How to reach me  [Email](https://rajeshbhadra62@gmail.com)
 
 
 
