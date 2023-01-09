@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vagabon-09)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/vagabon-09)
 
 - 💬 Ask me about **Android**
 - 🤖Compeleted one Internship
