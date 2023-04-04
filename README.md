@@ -22,6 +22,7 @@
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/vagabon-09)
 
 - 💬 Ask me about **Android**
+- 👨‍💻 Connect me with social media
 
 <!-- - 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/) -->
 
