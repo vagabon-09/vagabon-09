@@ -26,7 +26,7 @@
 
 <!-- - 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/) -->
 
-- 📫 How to reach me  [Email](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSDbhCMDftVZJXhCmJXJsgrCxqwcWWbBDQbczMsxKWmjLGSMkWShKBldvBqxPMsmbgRzJVzj)
+- 📫 How to reach me  [Contact@vagabondev.com](mailto:rajeshbhadra62@gmail.com)
 
 
 
