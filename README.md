@@ -6,30 +6,6 @@
 
   <h3 align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align ="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F0F6FC&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+A+passionate+Android+developer;I,m+from+India;I'm+enjoying+my+journey;Learning+new+things;Thanks+for+visiting;" /></h3>
 
-
-## 😎 About me
-
-- 🔭 I’m currently A student at [**JIS COLLEGE OF ENGINEERING**](https://www.jiscollege.ac.in/)
-
-- 🌱 I’m currently learning **Android using Java**
-
-<img align="right" height="150rem" alt="GIF" src="https://user-images.githubusercontent.com/89797141/190404889-560a4b36-670d-4569-8b90-a1484785ff97.gif" />
-
-- 👯 I’m looking to contribute on **Android Projects**
-
-- 🤝 I’m looking for help with **Android Development**
-
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/vagabon-09)
-
-- 💬 Ask me about **Android**
-- 👨‍💻 Connect me with social media
-
-<!-- - 👨‍💻 Intern at [ThinkNextMedia](https://www.thinknxtmedia.com/) -->
-
-- 📫 How to reach me  [Contact@vagabondev.com](mailto:rajeshbhadra62@gmail.com)
-
-
-
 <br/>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 <div align = "center">
