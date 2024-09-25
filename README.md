@@ -107,9 +107,3 @@
   <img src="https://profile-counter.glitch.me/vagabon-09/count.svg" />
 </p>
 
-# My Contribution
-<div align = "center">
-
-![snake gif](https://github.com/vagabon-09/vagabon-09/blob/output/github-contribution-grid-snake.svg)
-
-</div>
